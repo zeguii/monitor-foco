@@ -27,4 +27,4 @@ Em vez de depender de aplicativos de cronômetro genéricos, este projeto utiliz
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/monitor-foco.git](https://github.com/SEU_USUARIO/monitor-foco.git)
+   git clone [https://github.com/zeguii/monitor-foco.git](https://github.com/zeguiiO/monitor-foco.git)
